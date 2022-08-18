@@ -72,6 +72,13 @@
   </url>
   
   <url>
+    <loc>http://gtbcamp.cn/tags/QCloud/</loc>
+    <lastmod>2022-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://gtbcamp.cn/tags/Markdown/</loc>
     <lastmod>2022-08-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -80,13 +87,6 @@
   
   <url>
     <loc>http://gtbcamp.cn/tags/Html/</loc>
-    <lastmod>2022-08-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://gtbcamp.cn/tags/QCloud/</loc>
     <lastmod>2022-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -109,14 +109,14 @@
   </url>
   
   <url>
-    <loc>http://gtbcamp.cn/categories/Markdown/</loc>
+    <loc>http://gtbcamp.cn/categories/Hexo/Plugin/</loc>
     <lastmod>2022-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://gtbcamp.cn/categories/Hexo/Plugin/</loc>
+    <loc>http://gtbcamp.cn/categories/Markdown/</loc>
     <lastmod>2022-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
