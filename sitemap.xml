@@ -58,7 +58,7 @@
 
   <url>
     <loc>http://gtbcamp.cn/</loc>
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,35 +66,35 @@
   
   <url>
     <loc>http://gtbcamp.cn/tags/Hexo/</loc>
-    <lastmod>2022-08-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://gtbcamp.cn/tags/QCloud/</loc>
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://gtbcamp.cn/tags/Markdown/</loc>
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://gtbcamp.cn/tags/Html/</loc>
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://gtbcamp.cn/tags/QCloud/</loc>
+    <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://gtbcamp.cn/tags/VSCode/</loc>
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -103,21 +103,21 @@
   
   <url>
     <loc>http://gtbcamp.cn/categories/Hexo/</loc>
-    <lastmod>2022-08-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://gtbcamp.cn/categories/Hexo/Plugin/</loc>
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://gtbcamp.cn/categories/Markdown/</loc>
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://gtbcamp.cn/categories/Hexo/Plugin/</loc>
+    <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
