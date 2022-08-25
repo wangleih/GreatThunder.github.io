@@ -65,20 +65,6 @@
 
   
   <url>
-    <loc>http://gtbcamp.cn/tags/Markdown/</loc>
-    <lastmod>2022-08-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://gtbcamp.cn/tags/Html/</loc>
-    <lastmod>2022-08-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://gtbcamp.cn/tags/Hexo/</loc>
     <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -99,14 +85,21 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://gtbcamp.cn/categories/Markdown/</loc>
+    <loc>http://gtbcamp.cn/tags/Markdown/</loc>
     <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+  <url>
+    <loc>http://gtbcamp.cn/tags/Html/</loc>
+    <lastmod>2022-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
   
   <url>
     <loc>http://gtbcamp.cn/categories/Hexo/</loc>
@@ -117,6 +110,13 @@
   
   <url>
     <loc>http://gtbcamp.cn/categories/Hexo/Plugin/</loc>
+    <lastmod>2022-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://gtbcamp.cn/categories/Markdown/</loc>
     <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
