@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gtbcamp.cn/download/index.html</loc>
+    
+    <lastmod>2022-08-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://gtbcamp.cn/article/100001/</loc>
     
     <lastmod>2022-08-24</lastmod>
@@ -72,14 +81,14 @@
   </url>
   
   <url>
-    <loc>http://gtbcamp.cn/tags/VSCode/</loc>
+    <loc>http://gtbcamp.cn/tags/QCloud/</loc>
     <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://gtbcamp.cn/tags/QCloud/</loc>
+    <loc>http://gtbcamp.cn/tags/VSCode/</loc>
     <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -109,14 +118,14 @@
   </url>
   
   <url>
-    <loc>http://gtbcamp.cn/categories/Hexo/Plugin/</loc>
+    <loc>http://gtbcamp.cn/categories/Markdown/</loc>
     <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://gtbcamp.cn/categories/Markdown/</loc>
+    <loc>http://gtbcamp.cn/categories/Hexo/Plugin/</loc>
     <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
