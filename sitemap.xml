@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gtbcamp.cn/</loc>
+    <loc>http://gtbcamp.cn/download/index.html</loc>
     
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://gtbcamp.cn/download/index.html</loc>
+    <loc>http://gtbcamp.cn/</loc>
     
     <lastmod>2022-08-25</lastmod>
     
@@ -67,7 +67,7 @@
 
   <url>
     <loc>http://gtbcamp.cn/</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,35 +75,35 @@
   
   <url>
     <loc>http://gtbcamp.cn/tags/Hexo/</loc>
-    <lastmod>2022-08-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://gtbcamp.cn/tags/QCloud/</loc>
-    <lastmod>2022-08-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://gtbcamp.cn/tags/VSCode/</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://gtbcamp.cn/tags/Markdown/</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://gtbcamp.cn/tags/Html/</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://gtbcamp.cn/tags/VSCode/</loc>
+    <lastmod>2022-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://gtbcamp.cn/tags/QCloud/</loc>
+    <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -112,21 +112,21 @@
   
   <url>
     <loc>http://gtbcamp.cn/categories/Hexo/</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://gtbcamp.cn/categories/Markdown/</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://gtbcamp.cn/categories/Hexo/Plugin/</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
