@@ -81,14 +81,7 @@
   </url>
   
   <url>
-    <loc>http://gtbcamp.cn/tags/Markdown/</loc>
-    <lastmod>2022-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://gtbcamp.cn/tags/Html/</loc>
+    <loc>http://gtbcamp.cn/tags/QCloud/</loc>
     <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -102,7 +95,14 @@
   </url>
   
   <url>
-    <loc>http://gtbcamp.cn/tags/QCloud/</loc>
+    <loc>http://gtbcamp.cn/tags/Markdown/</loc>
+    <lastmod>2022-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://gtbcamp.cn/tags/Html/</loc>
     <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
