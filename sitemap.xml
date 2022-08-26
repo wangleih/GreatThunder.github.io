@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gtbcamp.cn/download/index.html</loc>
+    <loc>http://gtbcamp.cn/article/120001/</loc>
+    
+    <lastmod>2022-08-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://gtbcamp.cn/article/110001/</loc>
+    
+    <lastmod>2022-08-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://gtbcamp.cn/article/100002/</loc>
+    
+    <lastmod>2022-08-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://gtbcamp.cn/article/100001/</loc>
     
     <lastmod>2022-08-26</lastmod>
     
@@ -13,25 +40,7 @@
   <url>
     <loc>http://gtbcamp.cn/</loc>
     
-    <lastmod>2022-08-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://gtbcamp.cn/article/100001/</loc>
-    
-    <lastmod>2022-08-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://gtbcamp.cn/article/110001/</loc>
-    
-    <lastmod>2022-08-16</lastmod>
+    <lastmod>2022-08-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,25 +49,16 @@
   <url>
     <loc>http://gtbcamp.cn/about/index.html</loc>
     
-    <lastmod>2022-08-16</lastmod>
+    <lastmod>2022-08-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://gtbcamp.cn/article/100002/</loc>
+    <loc>http://gtbcamp.cn/download/index.html</loc>
     
-    <lastmod>2022-08-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://gtbcamp.cn/article/120001/</loc>
-    
-    <lastmod>2022-08-12</lastmod>
+    <lastmod>2022-08-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -74,6 +74,13 @@
 
   
   <url>
+    <loc>http://gtbcamp.cn/tags/VSCode/</loc>
+    <lastmod>2022-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://gtbcamp.cn/tags/Hexo/</loc>
     <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -82,13 +89,6 @@
   
   <url>
     <loc>http://gtbcamp.cn/tags/QCloud/</loc>
-    <lastmod>2022-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://gtbcamp.cn/tags/VSCode/</loc>
     <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -118,14 +118,14 @@
   </url>
   
   <url>
-    <loc>http://gtbcamp.cn/categories/Markdown/</loc>
+    <loc>http://gtbcamp.cn/categories/Hexo/Plugin/</loc>
     <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://gtbcamp.cn/categories/Hexo/Plugin/</loc>
+    <loc>http://gtbcamp.cn/categories/Markdown/</loc>
     <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
