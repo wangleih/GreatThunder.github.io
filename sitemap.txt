@@ -6,11 +6,11 @@ http://gtbcamp.cn/
 http://gtbcamp.cn/about/index.html
 http://gtbcamp.cn/download/index.html
 http://gtbcamp.cn/
-http://gtbcamp.cn/tags/Hexo/
-http://gtbcamp.cn/tags/VSCode/
 http://gtbcamp.cn/tags/Markdown/
 http://gtbcamp.cn/tags/Html/
+http://gtbcamp.cn/tags/Hexo/
+http://gtbcamp.cn/tags/VSCode/
 http://gtbcamp.cn/tags/QCloud/
+http://gtbcamp.cn/categories/Markdown/
 http://gtbcamp.cn/categories/Hexo/
 http://gtbcamp.cn/categories/Hexo/Plugin/
-http://gtbcamp.cn/categories/Markdown/
