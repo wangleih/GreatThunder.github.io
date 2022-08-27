@@ -12,5 +12,5 @@ http://gtbcamp.cn/tags/Markdown/
 http://gtbcamp.cn/tags/Html/
 http://gtbcamp.cn/tags/VSCode/
 http://gtbcamp.cn/categories/Hexo/
-http://gtbcamp.cn/categories/Hexo/Plugin/
 http://gtbcamp.cn/categories/Markdown/
+http://gtbcamp.cn/categories/Hexo/Plugin/
