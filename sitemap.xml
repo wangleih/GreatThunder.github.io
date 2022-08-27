@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gtbcamp.cn/article/110001/</loc>
+    <loc>http://gtbcamp.cn/</loc>
     
     <lastmod>2022-08-27</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://gtbcamp.cn/</loc>
+    <loc>http://gtbcamp.cn/article/110001/</loc>
     
     <lastmod>2022-08-27</lastmod>
     
@@ -74,20 +74,6 @@
 
   
   <url>
-    <loc>http://gtbcamp.cn/tags/Markdown/</loc>
-    <lastmod>2022-08-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://gtbcamp.cn/tags/Html/</loc>
-    <lastmod>2022-08-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://gtbcamp.cn/tags/Hexo/</loc>
     <lastmod>2022-08-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -96,6 +82,20 @@
   
   <url>
     <loc>http://gtbcamp.cn/tags/QCloud/</loc>
+    <lastmod>2022-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://gtbcamp.cn/tags/Markdown/</loc>
+    <lastmod>2022-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://gtbcamp.cn/tags/Html/</loc>
     <lastmod>2022-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -111,13 +111,6 @@
 
   
   <url>
-    <loc>http://gtbcamp.cn/categories/Markdown/</loc>
-    <lastmod>2022-08-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://gtbcamp.cn/categories/Hexo/</loc>
     <lastmod>2022-08-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -126,6 +119,13 @@
   
   <url>
     <loc>http://gtbcamp.cn/categories/Hexo/Plugin/</loc>
+    <lastmod>2022-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://gtbcamp.cn/categories/Markdown/</loc>
     <lastmod>2022-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
